@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**carlleyco/carlleyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Carl**, an aspiring aerospace engineer in the Philippines.
 
-Here are some ideas to get you started:
+A Grade 11 STEM student at De La Salle University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on rocket propulsion, aerodynamics, and systems engineering.
+
+Currently learning numpy and matplotlib as my python libraries.
+
+### 🚀 What I'm currently working on
+- **Orbital Mechanics Visualizer**  
+- **Model Rocket Body (CAD)**
+
+### 📚 Fun Facts
+- I have backgrounds in film, editing, and storytelling
+- Currently studying multivariable calculus and classical mechanics
+- My hobbies are gym, guitar, drawing, and trying to make rockets fly
