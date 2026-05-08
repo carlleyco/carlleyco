@@ -9,7 +9,7 @@ I focus on rocket propulsion, aerodynamics, and systems engineering.
 Currently learning numpy and matplotlib as my python libraries.
 
 ### 🚀 What I'm currently working on
-- **Orbital Mechanics Visualizer**  
+- **The International Standard Atmosphere Model**  
 - **Model Rocket Body (CAD)**
 
 ### 📚 Fun Facts
